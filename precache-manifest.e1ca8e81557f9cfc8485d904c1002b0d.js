@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e1a2cfd44657774c2683ba3621bdf19",
+    "revision": "8db66edd80976a6ea9c46638e0a4e8f7",
     "url": "/deploy-lightbox/index.html"
   },
   {
-    "revision": "ac4372733d299184fd47",
+    "revision": "d9799bf2b9e10a50976d",
     "url": "/deploy-lightbox/static/css/main.e44c79e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-lightbox/static/js/2.481918a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac4372733d299184fd47",
-    "url": "/deploy-lightbox/static/js/main.1ad5e3b3.chunk.js"
+    "revision": "d9799bf2b9e10a50976d",
+    "url": "/deploy-lightbox/static/js/main.2dc7b901.chunk.js"
   },
   {
     "revision": "d8ac43df11e0dc89faf0",
