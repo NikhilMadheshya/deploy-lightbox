@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deploy-lightbox/static/css/main.1e9b52ba.chunk.css",
+    "main.css": "/deploy-lightbox/static/css/main.400d96fd.chunk.css",
     "main.js": "/deploy-lightbox/static/js/main.1ad5e3b3.chunk.js",
     "main.js.map": "/deploy-lightbox/static/js/main.1ad5e3b3.chunk.js.map",
     "runtime-main.js": "/deploy-lightbox/static/js/runtime-main.4fc9c8b6.js",
@@ -8,15 +8,15 @@
     "static/js/2.481918a7.chunk.js": "/deploy-lightbox/static/js/2.481918a7.chunk.js",
     "static/js/2.481918a7.chunk.js.map": "/deploy-lightbox/static/js/2.481918a7.chunk.js.map",
     "index.html": "/deploy-lightbox/index.html",
-    "precache-manifest.a646046a57a3b36532ea406afea048b5.js": "/deploy-lightbox/precache-manifest.a646046a57a3b36532ea406afea048b5.js",
+    "precache-manifest.08ac4be25269d4703aba68d28ae729b3.js": "/deploy-lightbox/precache-manifest.08ac4be25269d4703aba68d28ae729b3.js",
     "service-worker.js": "/deploy-lightbox/service-worker.js",
-    "static/css/main.1e9b52ba.chunk.css.map": "/deploy-lightbox/static/css/main.1e9b52ba.chunk.css.map",
+    "static/css/main.400d96fd.chunk.css.map": "/deploy-lightbox/static/css/main.400d96fd.chunk.css.map",
     "static/js/2.481918a7.chunk.js.LICENSE.txt": "/deploy-lightbox/static/js/2.481918a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4fc9c8b6.js",
     "static/js/2.481918a7.chunk.js",
-    "static/css/main.1e9b52ba.chunk.css",
+    "static/css/main.400d96fd.chunk.css",
     "static/js/main.1ad5e3b3.chunk.js"
   ]
 }
